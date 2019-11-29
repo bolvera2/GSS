@@ -199,4 +199,4 @@ The first p-value for the Chisq test is 0.02<0.05 so we reject the null hypothes
 
 The second p-value for the Chisq test is 0.08>0.05 so we have failed to reject the null hypothesis therefore we have no evidence of a relationship between belief Big Bang Theory and belief in a After Life.
 
-The third P-value is 0.0009<0.5 so we reject the null hypothesis and conclude there is a relationship between whether one believes in the death pentalty and race.
+The third P-value is 0.0009<0.5 so we reject the null hypothesis and conclude there is a relationship between whether one believes in the death pentalty and race..
